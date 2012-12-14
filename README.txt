@@ -1,9 +1,12 @@
 == Description ==
 
+<<<<<<< HEAD
 *This is a fork of the Unofficial Moodle Mobile App custmoized for California State University Los Angeles.
 Below is the original README.txt originally written by jleyva.*
 
 
+=======
+>>>>>>> upstream/master
 This is an unofficial clone of the Moodle Mobile app for iPhone that works on Android and Blackberry devices.
 It should work also on iPhone and iPad.
 
@@ -126,6 +129,30 @@ Profile users image are not displayed (This is a Moodle issue) See http://tracke
 
 See this post: http://moodle.org/mod/forum/discuss.php?d=191144
 
+<<<<<<< HEAD
+=======
+== ROADMAP ==
+
+=== Version 1.0 ===
+
+Upgrade jQuery Mobile to 1.1.0
+* Improved support for fixed toolbars
+* Improved transitions, faster and smoother
+* New transitions
+* New AJAX Loader
+More information here: http://jquerymobile.com/blog/2012/04/13/announcing-jquery-mobile-1-1-0/
+
+Upgrade Phonegap to 1.7
+
+Fixing coding style
+
+== Versions ==
+
+=== Version 0.9 ===
+
+Basic functionality
+
+>>>>>>> upstream/master
 [[Category: Contributed code]]
 
 == See Also ==
